@@ -1,0 +1,11 @@
+c:\users\wm180573\source\repos\SianGrid\SianGrid\bin\Debug\SianGrid.exe.config
+c:\users\wm180573\source\repos\SianGrid\SianGrid\bin\Debug\SianGrid.exe
+c:\users\wm180573\source\repos\SianGrid\SianGrid\bin\Debug\SianGrid.pdb
+c:\users\wm180573\source\repos\SianGrid\SianGrid\bin\Debug\SianGrid.xml
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.vbprojResolveAssemblyReference.cache
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.Resources.resources
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.vbproj.GenerateResource.Cache
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.vbproj.CoreCompileInputs.cache
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.exe
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.xml
+c:\users\wm180573\source\repos\SianGrid\SianGrid\obj\Debug\SianGrid.pdb
